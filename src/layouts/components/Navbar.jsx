@@ -4,8 +4,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <div className="flex-shrink-0">
-            {/* Aquí luego pondremos el logo, por ahora texto */}
-            <span className="text-barber-gold font-title text-xl tracking-widest uppercase">
+            <span className="text-barber-gold font-title text-xl uppercase tracking-widest">
               Barbería Medina
             </span>
           </div>
